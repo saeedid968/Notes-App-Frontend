@@ -35,8 +35,16 @@ This frontend focuses on **user experience, responsiveness, and clean component 
 * Modal view
 * Skeleton loader on delete
 * Editor view
+## 📸 Screenshots
 
----
+| Notes Grid | Editor View |
+|------------|-------------|
+| ![Notes Grid](https://github.com/user-attachments/assets/56922df3-3640-4ef8-917a-ab12b451693c) | ![Editor View](https://github.com/user-attachments/assets/2f7abe79-0835-456d-8496-31708bd66f7e) |
+
+| Sidebar | Modal View |
+|---------|------------|
+| ![Sidebar](https://github.com/user-attachments/assets/d08430a9-43f9-462f-9ac7-561b1eeb4162) | ![Modal](https://github.com/user-attachments/assets/e1d766cd-464b-4660-9139-2a81964ca36c) |
+
 
 ## 🧠 UX Decisions (Important)
 
